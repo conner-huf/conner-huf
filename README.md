@@ -2,7 +2,7 @@
 
 ### I'm Conner
 
-🤔 - I'm a software engineer, based in Los Angeles, CA. I just finished my Computer Science degree, and I've been working on all sorts of different projects for about a year and a half now. I'm currently looking for work, but in the meantime, I'm working on projects I've had ideas for, working on certifications for technologies I'm interested in, and pretty much just making as many cool things as I can.
+😄 - I'm a software engineer, based in Los Angeles, CA. I just finished my Computer Science degree, and I've been working on all sorts of different projects for about a year and a half now. I'm currently looking for work, but in the meantime, I'm working on projects I've had ideas for, working on certifications for technologies I'm interested in, and pretty much just making as many cool things as I can.
 
 🌱 - I'm currently learning React. I've been really interested in React Native lately, and my next plan is to work on making mobile apps with it! I also want to brush up on using C++ and C#. I've *really* enjoyed working in Unity, and I'll probably continue making side projects in Unity no matter what field I end up in.
 
