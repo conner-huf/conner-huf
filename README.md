@@ -8,6 +8,13 @@
 
 🔭 - I'm a big fan of video games, movies, and live music. Some of the projects I want to work on soon have to do with randomizers for two of my favorite video games (Zelda: Majora's Mask and Hollow Knight) - so keep an eye out for those! I'm also participating in GameJams and will be releasing my finished products on itch.io, so stay tuned for links to finished game projects.
 
+⚡ - I recently worked on a url shortener, mostly for my own use, but it was a super fun project! And now I've got some uniformity to all of my links which feels nice to look at. Feel free to use the URL shortener at teeny-link.com
+
+Portfolio: http://www.teeny-link.com/mysite
+LinkedIn: http://www.teeny-link.com/linkdin
+Github: http://www.teeny-link.com/github
+ItchIO: http://www.teeny-link.com/itchio
+
 📫 - You can get ahold of me at conner.huf@gmail.com if you want to chat!
 
 ### Thanks for reading!
