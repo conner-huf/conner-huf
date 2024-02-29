@@ -11,9 +11,13 @@
 ⚡ - I recently worked on a url shortener, mostly for my own use, but it was a super fun project! And now I've got some uniformity to all of my links which feels nice to look at. Feel free to use the URL shortener at teeny-link.com
 
 Portfolio: http://www.teeny-link.com/mysite
+
 LinkedIn: http://www.teeny-link.com/linkdin
+
 Github: http://www.teeny-link.com/github
+
 ItchIO: http://www.teeny-link.com/itchio
+
 
 📫 - You can get ahold of me at conner.huf@gmail.com if you want to chat!
 
