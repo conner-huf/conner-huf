@@ -1,6 +1,6 @@
-<h1 align="center">Hi there! 👋</h1>
-<h2 align="center">I'm Conner</h2>
-<hr/>
+<div>
+    <h1 align="center">Hi there! 👋 <br /> I'm Conner</h1>
+</div>
 
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=conner-huf&label=Profile%20views&color=0e75b6&style=flat" alt="conner-huf" /> 
