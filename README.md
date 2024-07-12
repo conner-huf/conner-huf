@@ -1,11 +1,16 @@
 <div>
     <h1 align="left">Hi there! 👋 <br /> I'm Conner</h1>
 </div>
-
-<p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=conner-huf&label=Profile%20views&color=0e75b6&style=flat" alt="conner-huf" /> 
-</p>
-
+<div>
+    <p align="left">
+        <a href="https://www.linkedin.com/in/conner-hufnagel-070243287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="conner hufnagel" height="30" width="40" /></a>
+        <a href="https://leetcode.com/u/c_hufnagel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="conner hufnagel" height="30" width="40" /></a>
+    </p>
+    
+<p align="left"> 
+        <img src="https://komarev.com/ghpvc/?username=conner-huf&label=Profile%20views&color=0e75b6&style=flat" alt="conner-huf" /> 
+    </p>
+</div>
 <p align="left">
     😄 - I'm a software engineer, based in Los Angeles, CA. I just finished my Computer Science degree, and I've been working on all sorts of different projects for about a year and a half now. I'm currently looking for work, but in the meantime I'm working on projects I've had ideas for, working on certifications for technologies I'm interested in, and pretty much just making as many cool things as I can.
 </p>
