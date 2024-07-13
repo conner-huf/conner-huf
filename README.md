@@ -17,6 +17,7 @@
 
 <p>
     🌱 - I mostly work with Python backends and React.js frontends. However, I've really enjoyed working with .NET, so I'm now working on migrating some of my backends and APIs to .NET. Lately, I've been developing a fullstack app for finding concerts in your area, and I'm really excited with how it's going! I've *really* enjoyed working in Unity, and I'll probably continue making side projects in Unity as a lil' side hobby. 
+    I think my favorite project I've worked on lately has been the ConnerAPI. I had heard of someone making their resume into an API, and thought it was a really neat idea, so I used it to get more familiar with .NET. I absolutely fell in love with using the .NET ecosystem for building out the API and deploying it with Azure. It was an awesome experience.
 </p>
 
 <p>
