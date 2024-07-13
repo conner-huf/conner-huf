@@ -24,10 +24,6 @@
 </p>
 
 <p>
-    ⚡ - I recently worked on a url shortener, mostly for my own use, but it was a super fun project! And now I've got some uniformity to all of my links which feels nice to look at. UPDATE: My old hosting has been charging more for their host services, so I've taken this down until I can get the backend hosted elsewhere.
-</p>
-
-<p>
     📫 - You can get ahold of me at conner.huf@gmail.com if you want to chat!
 </p>
 
