@@ -5,7 +5,7 @@
 
 </div>
 <p align="left">
-    😄 - Hi there! I'm Conner, I'm a software engineer, based in Los Angeles, CA. 
+    😄 - I'm a software engineer, based in Los Angeles, CA. 
 </p>
 
 <p>
