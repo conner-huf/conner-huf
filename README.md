@@ -5,16 +5,7 @@
 
 </div>
 <p align="left">
-    😄 - Hi there! I'm Conner, I'm a software engineer, based in Los Angeles, CA. I've been working freelance for the past year, and I'm currently looking for full-time or contract roles. In the meantime, I'm mostly focused on just making as many cool things as I can!
-</p>
-
-<p>
-    🌱 - I mostly work with Python backends and React.js frontends. I've also enjoyed working with the .NET ecosystem, and I've just finished migrating everything onto Azure App Service deployments. I've *really* enjoyed working in Unity, and I'll probably continue making side projects in Unity as a lil' side hobby. 
-    I think my favorite project I've worked on lately has been the ConnerAPI. I had heard of someone making their resume into an API, and thought it was a really neat idea, so I first got it implemented in .NET/C#. Then I eventually combined all of my backends into a unified backend in Python and I'm loving where it is now. 
-</p>
-
-<p>
-    🔭 - I'm a big fan of video games, movies, and live music. Some of the projects I want to work on soon have to do with randomizers for two of my favorite video games (Zelda: Majora's Mask and Hollow Knight) - so keep an eye out for those! I'm also participating in GameJams and will be releasing my finished products on itch.io, so stay tuned for links to finished game projects.
+    😄 - Hi there! I'm Conner, I'm a software engineer, based in Los Angeles, CA. 
 </p>
 
 <p>
